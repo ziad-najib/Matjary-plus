@@ -1,0 +1,107 @@
+{
+  "navigation": {
+    "home": "Home",
+    "categories": "Categories",
+    "products": "Products",
+    "offers": "Offers",
+    "sellers": "Sellers",
+    "cart": "Cart",
+    "wishlist": "Wishlist",
+    "profile": "Profile",
+    "orders": "My Orders",
+    "wallet": "Wallet",
+    "search": "Search",
+    "login": "Login",
+    "register": "Register",
+    "logout": "Logout"
+  },
+  "home": {
+    "welcome": "Welcome to our online store",
+    "featuredProducts": "Featured Products",
+    "specialOffers": "Special Offers",
+    "newsletter": "Newsletter",
+    "addToCart": "Add to Cart",
+    "viewAll": "View All"
+  },
+  "auth": {
+    "login": "Login",
+    "register": "Register",
+    "email": "Email",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "forgotPassword": "Forgot Password?",
+    "loginWithGoogle": "Login with Google",
+    "dontHaveAccount": "Don't have an account?",
+    "alreadyHaveAccount": "Already have an account?",
+    "createAccount": "Create Account"
+  },
+  "cart": {
+    "title": "Shopping Cart",
+    "empty": "Cart is empty",
+    "subtotal": "Subtotal",
+    "shipping": "Shipping",
+    "tax": "Tax",
+    "total": "Total",
+    "checkout": "Checkout",
+    "continueShopping": "Continue Shopping",
+    "clearCart": "Clear Cart"
+  },
+  "products": {
+    "title": "Products",
+    "quantity": "Quantity",
+    "addToWishlist": "Add to Wishlist",
+    "removeFromWishlist": "Remove from Wishlist",
+    "productDetails": "Product Details",
+    "specifications": "Specifications",
+    "customerReviews": "Customer Reviews",
+    "writeReview": "Write Review",
+    "relatedProducts": "Related Products"
+  },
+  "wishlist": {
+    "title": "Wishlist",
+    "empty": "Wishlist is empty",
+    "addToCart": "Add to Cart"
+  },
+  "checkout": {
+    "title": "Checkout",
+    "shippingAddress": "Shipping Address",
+    "paymentMethod": "Payment Method",
+    "orderSummary": "Order Summary",
+    "placeOrder": "Place Order",
+    "orderPlaced": "Order Placed",
+    "orderNumber": "Order Number",
+    "estimatedDelivery": "Estimated Delivery",
+    "paymentMethods": {
+      "cash": "Cash on Delivery",
+      "wallet": "Digital Wallet",
+      "creditCard": "Credit Card",
+      "syriatelCash": "Syriatel Cash",
+      "mtnCash": "MTN Cash"
+    }
+  },
+  "wallet": {
+    "title": "Digital Wallet",
+    "balance": "Current Balance",
+    "recharge": "Recharge Wallet",
+    "transactions": "Transaction History",
+    "rechargeCenters": "Recharge Centers"
+  },
+  "orders": {
+    "title": "My Orders"
+  },
+  "profile": {
+    "title": "Profile"
+  },
+  "sellers": {
+    "title": "Sellers"
+  },
+  "offers": {
+    "title": "Special Offers"
+  },
+  "search": {
+    "title": "Search Results",
+    "searchFor": "Search for",
+    "resultsFound": "results",
+    "noResults": "No results found"
+  }
+}

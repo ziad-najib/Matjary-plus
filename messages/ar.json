@@ -1,0 +1,107 @@
+{
+  "navigation": {
+    "home": "الرئيسية",
+    "categories": "الفئات",
+    "products": "المنتجات",
+    "offers": "العروض",
+    "sellers": "البائعين",
+    "cart": "السلة",
+    "wishlist": "المفضلة",
+    "profile": "الملف الشخصي",
+    "orders": "طلباتي",
+    "wallet": "المحفظة",
+    "search": "البحث",
+    "login": "تسجيل الدخول",
+    "register": "إنشاء حساب",
+    "logout": "تسجيل الخروج"
+  },
+  "home": {
+    "welcome": "مرحباً بك في متجرنا الإلكتروني",
+    "featuredProducts": "المنتجات المميزة",
+    "specialOffers": "العروض الخاصة",
+    "newsletter": "النشرة الإخبارية",
+    "addToCart": "أضف للسلة",
+    "viewAll": "عرض الكل"
+  },
+  "auth": {
+    "login": "تسجيل الدخول",
+    "register": "إنشاء حساب",
+    "email": "البريد الإلكتروني",
+    "password": "كلمة المرور",
+    "confirmPassword": "تأكيد كلمة المرور",
+    "forgotPassword": "نسيت كلمة المرور؟",
+    "loginWithGoogle": "تسجيل الدخول بجوجل",
+    "dontHaveAccount": "ليس لديك حساب؟",
+    "alreadyHaveAccount": "لديك حساب بالفعل؟",
+    "createAccount": "إنشاء حساب جديد"
+  },
+  "cart": {
+    "title": "سلة التسوق",
+    "empty": "السلة فارغة",
+    "subtotal": "المجموع الفرعي",
+    "shipping": "الشحن",
+    "tax": "الضريبة",
+    "total": "المجموع الكلي",
+    "checkout": "إتمام الشراء",
+    "continueShopping": "متابعة التسوق",
+    "clearCart": "إفراغ السلة"
+  },
+  "products": {
+    "title": "المنتجات",
+    "quantity": "الكمية",
+    "addToWishlist": "أضف للمفضلة",
+    "removeFromWishlist": "إزالة من المفضلة",
+    "productDetails": "تفاصيل المنتج",
+    "specifications": "المواصفات",
+    "customerReviews": "آراء العملاء",
+    "writeReview": "اكتب مراجعة",
+    "relatedProducts": "منتجات ذات صلة"
+  },
+  "wishlist": {
+    "title": "المفضلة",
+    "empty": "المفضلة فارغة",
+    "addToCart": "أضف للسلة"
+  },
+  "checkout": {
+    "title": "إتمام الشراء",
+    "shippingAddress": "عنوان الشحن",
+    "paymentMethod": "طريقة الدفع",
+    "orderSummary": "ملخص الطلب",
+    "placeOrder": "تأكيد الطلب",
+    "orderPlaced": "تم تأكيد الطلب",
+    "orderNumber": "رقم الطلب",
+    "estimatedDelivery": "التسليم المتوقع",
+    "paymentMethods": {
+      "cash": "الدفع عند الاستلام",
+      "wallet": "المحفظة الإلكترونية",
+      "creditCard": "بطاقة ائتمان",
+      "syriatelCash": "سيرياتيل كاش",
+      "mtnCash": "MTN كاش"
+    }
+  },
+  "wallet": {
+    "title": "المحفظة الإلكترونية",
+    "balance": "الرصيد الحالي",
+    "recharge": "شحن المحفظة",
+    "transactions": "سجل المعاملات",
+    "rechargeCenters": "مراكز الشحن"
+  },
+  "orders": {
+    "title": "طلباتي"
+  },
+  "profile": {
+    "title": "الملف الشخصي"
+  },
+  "sellers": {
+    "title": "البائعين"
+  },
+  "offers": {
+    "title": "العروض الخاصة"
+  },
+  "search": {
+    "title": "نتائج البحث",
+    "searchFor": "البحث عن",
+    "resultsFound": "نتيجة",
+    "noResults": "لا توجد نتائج"
+  }
+}
